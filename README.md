@@ -1,4 +1,4 @@
 # DataVisualization-Lab-1
-# EAD
-# Understanding Chart
+# EDA
+# Understanding the Chart
 # Uploading the dataset
